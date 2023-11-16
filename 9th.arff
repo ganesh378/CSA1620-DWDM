@@ -1,0 +1,8 @@
+@relation decision
+@attribute height{yes,no}
+@attribute weight{yes,no}
+@attribute gender{male,female}
+@data
+yes,no,male
+no,yes,male
+no,no,female
